@@ -1,0 +1,17 @@
+﻿Build started 6/26/2017 5:04:47 PM.
+     1>Project "C:\Users\vlsilab2\Desktop\c program\read_socket\read_socket\read_socket.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\read_socket.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vlsilab2\Desktop\c program\read_socket\Debug\read_socket.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\read_socket.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\vlsilab2\Desktop\c program\read_socket\Debug\read_socket.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vlsilab2\Desktop\c program\read_socket\Debug\read_socket.lib" /MACHINE:X86 /DLL Debug\read_socket.dll.embed.manifest.res
+         Debug\read_socket.obj
+     1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+     1>Done Building Project "C:\Users\vlsilab2\Desktop\c program\read_socket\read_socket\read_socket.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.12
